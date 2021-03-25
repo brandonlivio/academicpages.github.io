@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a pHd student interested in Statistical Mechanics and Computer Science.
+I am a PhD student interested in Statistical Mechanics and Computer Science.
 

@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, La Sapienza University, 2015
+* M.Sc. in Physics, Imperial College London, 2016
+* Laurea Magistrale in Theoretetical Physics, La Sapienza University, 2018 
+* pHd in Statistics and Computer Science, Bocconi University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020: Data Analyst
+  * Engineering 365
+  * Duties included: Python Developer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Skills. Excellent Knowledge of 
+    * Python 
+    * C
+    * Julia
+* Good Knowledge of 
+    * Mathematica
+    * Matlab
+* Language Skills: I am bilingual in Italian and English
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+  Annesi, B., Marinari, E., & Oshanin, G. (2019). Covariance of the running range of a Brownian trajectory. Journal of Physics A: Mathematical and Theoretical, 52(34), 345003. <ul>{% for post in site.publications %}
+    {https://iopscience.iop.org/article/10.1088/1751-8121/ab306c/meta}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

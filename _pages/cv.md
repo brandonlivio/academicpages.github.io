@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-To download the complete CV, <a href="CV.pdf">click here</a>
+To download the complete CV, [download]({{ site.baseurl }}{% link cv.pdf %})
 
 Education
 ======

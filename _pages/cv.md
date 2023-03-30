@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+To download the complete CV, <a href="CV.pdf">click here</a>
+
 Education
 ======
 * B.S. in Physics, La Sapienza University, 2015

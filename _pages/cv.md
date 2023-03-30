@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-To download the complete CV, [click here](http://academicpages.github.io/files/cv.pdf)
+To download the complete CV, [click here](https://brandonlivio.github.io/files/cv.pdf)
 
 Education
 ======
